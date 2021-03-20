@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/cody-davis-253925-unsplash.jpg"
-title: Pineapple
+title: Pineapple jetzt dark
 date: 2019-02-06
 categories:
 - photography
