@@ -6,6 +6,7 @@ fields:
   name: thumbnail
   label: Thumbnail
   description: This will only show up on the front page
+  hidden: true
 - type: text
   name: title
   label: Title
