@@ -9,3 +9,4 @@ project_bg_color: "#C817D8"
 project_fg_color: ''
 
 ---
+just some text
