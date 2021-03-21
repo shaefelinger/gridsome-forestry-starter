@@ -1,8 +1,8 @@
 {
   "footer": "Copyright &copy; 2021",
-  "dark_mode": false,
+  "dark_mode": true,
   "site_name": "Steffen Häfelinger",
   "site_description": "Creative technologist",
   "hero_title": "Simplicity. Aesthetics. Value. ",
-  "hero_subtitle": "Hi there, I am great and it is simple. Now with netlify!"
+  "hero_subtitle": "Just testing..."
 }
